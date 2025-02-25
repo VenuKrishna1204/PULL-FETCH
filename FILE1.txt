@@ -1,3 +1,7 @@
 AIML
 CBDS
 CSE
+ECE
+EEE
+EIE
+IT
